@@ -131,7 +131,10 @@ frida-ps -Uai
 frida -U -f com.example.app -l hello.js
 ```
 <img width="1119" height="273" alt="Screenshot 2026-04-22 162043" src="https://github.com/user-attachments/assets/31dd36e9-182e-4c4a-bafb-0337bcd54a87" />
+<br>
 <img width="1588" height="870" alt="Screenshot 2026-04-22 142722" src="https://github.com/user-attachments/assets/71d8f78b-d82e-49d8-8f48-ff8faf322885" />
+<br>
+
 <img width="858" height="420" alt="Screenshot 2026-04-22 162059" src="https://github.com/user-attachments/assets/a65af137-b128-416f-a6bc-742e0706021a" />
 
 ---
